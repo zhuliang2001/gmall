@@ -1,4 +1,4 @@
-package com.atguigu.gmall.gmalluserweb;
+package com.atguigu.gmall.user;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

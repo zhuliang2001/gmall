@@ -9,7 +9,6 @@
         <module name="demo" />
         <module name="gmall-api" />
         <module name="gmall-common-util" />
-        <module name="gmall-parent" />
         <module name="gmall-service-util" />
         <module name="gmall-user" />
         <module name="gmall-user-service" />
@@ -21,13 +20,13 @@
       <module name="demo" target="1.8" />
       <module name="dome" target="1.5" />
       <module name="gmall-api" target="1.7" />
-      <module name="gmall-common-util" target="1.7" />
-      <module name="gmall-parent" target="1.7" />
-      <module name="gmall-service-util" target="1.7" />
+      <module name="gmall-common-util" target="1.8" />
+      <module name="gmall-parent" target="1.8" />
+      <module name="gmall-service-util" target="1.8" />
       <module name="gmall-user" target="1.7" />
-      <module name="gmall-user-service" target="1.5" />
-      <module name="gmall-user-web" target="1.5" />
-      <module name="gmall-web-util" target="1.7" />
+      <module name="gmall-user-service" target="1.8" />
+      <module name="gmall-user-web" target="1.8" />
+      <module name="gmall-web-util" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
