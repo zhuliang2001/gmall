@@ -1,9 +1,11 @@
-package com.atguigu.gmall.gmallservice;
+package com.atguigu.gmall;
 
+import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
+@MapperScan(basePackages = "com.atguigu.gmall.manage.mapper")
 public class GmallManageServiceApplication {
 
 	public static void main(String[] args) {
